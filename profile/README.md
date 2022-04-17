@@ -4,8 +4,6 @@ Wechaty is an Open Source software application for building chatbots. It is a mo
 
 You can use Wechaty to build a chatbot which automates conversations and interact with people through instant messaging platforms such as WhatsApp, WeChat, WeCom, Gitter and Lark among others.
 
-🙋‍♀️ [Contributors](https://wechaty.js.org/docs/contributors)  
-🌈 [Contribution guidelines](https://wechaty.js.org/docs/contributing/)  
-👩‍💻 [Where to buy Wechaty Puppet Service Token (WPS Token)](https://wechaty.js.org/docs/puppet-services/)  
-🍿 Wechaty open-source project is based on GitHub and using English as primary language.  
-🧙 [Open-source Friday BOT](https://wechaty.js.org/docs/showcases/friday-bot)  
+[News](https://wechaty.js.org/news) | [Blog](https://wechaty.js.org/blog) | [Docs](https://wechaty.js.org/docs) | [Contributors](https://wechaty.js.org/docs/contributors) | [Friday BOT](https://wechaty.js.org/docs/showcases/friday-bot) | [Contribution guidelines](https://wechaty.js.org/docs/contributing/) | [Buy WPS Token](https://wechaty.js.org/docs/puppet-services/) 
+
+> WPS - Wechaty Puppet Service
