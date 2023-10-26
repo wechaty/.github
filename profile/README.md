@@ -38,10 +38,14 @@ Some numbers for the Wechaty project:
 - 100,000+ [Docker Pulls](https://hub.docker.com/r/wechaty/wechaty)
 - 1,200,000+ [NPM Downloads](https://npm-stat.com/charts.html?package=wechaty&from=2016-05-01)
 
-## Join us!
+### Join Us on Discord [![Discord](https://img.shields.io/discord/916984413944967180)](https://discord.gg/7q8NBZbQzt)
 
-Join us on Discord to become a Wechaty Developers Community member now if you have not done so yet! [Discord Wechaty Community](https://discord.gg/7q8NBZbQzt)
+Wechaty is used in many ChatBot projects by thousands of developers. To talk with other developers, scan the QR Code below and join our [**Wechaty Developer Community**](https://discord.gg/7q8NBZbQzt).
 
-[News](https://wechaty.js.org/news) | [Blog](https://wechaty.js.org/blog) | [Docs](https://wechaty.js.org/docs) | [Contributors](https://wechaty.js.org/contributors) | [Friday BOT](https://wechaty.js.org/docs/showcases/friday-bot) | [Contributor Program](https://wechaty.js.org/docs/contributor-program/) | [Buy WPS Token](https://wechaty.js.org/docs/puppet-services/)[^1]
+[![Wechaty Discord Community QR Code](https://wechaty.js.org/img/discord-qrcode.svg)](https://discord.gg/7q8NBZbQzt)
+
+> Scan now because other Wechaty developers want to talk with you, too!
+
+[Discord](https://discord.gg/7q8NBZbQzt) | [News](https://wechaty.js.org/news) | [Blog](https://wechaty.js.org/blog) | [Docs](https://wechaty.js.org/docs) | [Contributors](https://wechaty.js.org/contributors) | [Friday BOT](https://wechaty.js.org/docs/showcases/friday-bot) | [Contributor Program](https://wechaty.js.org/docs/contributor-program/) | [Buy WPS Token](https://wechaty.js.org/docs/puppet-services/)[^1]
 
 [^1]: WPS - Wechaty Puppet Service
