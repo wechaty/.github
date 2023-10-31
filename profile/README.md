@@ -15,7 +15,7 @@ In this era of digital transformation, Wechaty emerges as a game-changer, offeri
 
 <div align="center">
 
-[![Discord](https://img.shields.io/discord/916984413944967180)](https://discord.gg/7q8NBZbQzt)
+[![Join Wechaty Discord Developer Community](https://img.shields.io/discord/916984413944967180?logo=discord&style=flat)](https://discord.gg/7q8NBZbQzt)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)](https://www.typescriptlang.org/)
 [![ES Modules](https://img.shields.io/badge/ES-Modules-orange)](https://github.com/Chatie/tsconfig/issues/16)
 [![NPM Version](https://img.shields.io/npm/v/wechaty?color=brightgreen)](https://www.npmjs.com/package/wechaty)
@@ -38,7 +38,7 @@ Some numbers for the Wechaty project:
 - 100,000+ [Docker Pulls](https://hub.docker.com/r/wechaty/wechaty)
 - 1,200,000+ [NPM Downloads](https://npm-stat.com/charts.html?package=wechaty&from=2016-05-01)
 
-### Join Us on Discord [![Discord](https://img.shields.io/discord/916984413944967180)](https://discord.gg/7q8NBZbQzt)
+### Join Us on Discord [![Join Wechaty Discord Developer Community](https://img.shields.io/discord/916984413944967180?logo=discord&style=flat)](https://discord.gg/7q8NBZbQzt)
 
 Wechaty is used in many ChatBot projects by thousands of developers. To talk with other developers, scan the QR Code below and join our [**Wechaty Developer Community**](https://discord.gg/7q8NBZbQzt).
 
