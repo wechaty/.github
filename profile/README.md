@@ -32,11 +32,11 @@ Wechaty is a Conversational RPA SDK for chatbot makers. With only six lines of c
 Some numbers for the Wechaty project:
 
 - 200+ [Contributors](https://wechaty.js.org/contributors/)
-- 6,000+ [Open-source Dependents](https://github.com/wechaty/wechaty/network/dependents)
 - 9,000+ [Pull Requests & Issues](https://github.com/issues?q=user%3Awechaty)
-- 14,000+ [GitHub Stars](https://github.com/wechaty/wechaty/stargazers/) [📈](https://star-history.com/#wechaty/wechaty&Date)
+- 18,000+ [GitHub Stars](https://github.com/wechaty/wechaty/stargazers/) [📈](https://star-history.com/#wechaty/wechaty&Date)
+- 30,000+ [Open-source Dependents (TypeScript)](https://github.com/wechaty/wechaty/network/dependents)[(Python)](https://github.com/wechaty/python-wechaty/network/dependents)
 - 100,000+ [Docker Pulls](https://hub.docker.com/r/wechaty/wechaty)
-- 1,200,000+ [NPM Downloads](https://npm-stat.com/charts.html?package=wechaty&from=2016-05-01)
+- 1,500,000+ [NPM Downloads](https://npm-stat.com/charts.html?package=wechaty&from=2016-05-01)
 
 ### Join Us on Discord [![Join Wechaty Discord Developer Community](https://img.shields.io/discord/916984413944967180?logo=discord&style=flat)](https://discord.gg/7q8NBZbQzt)
 
